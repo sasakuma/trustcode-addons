@@ -19,7 +19,7 @@
     'contributors': [
         'Felipe Paloschi <paloschi.eca@gmail.com>',
     ],
-    'depends': ['br_account', 'analytic'],
+    'depends': ['br_account', 'account_accountant', 'analytic'],
     'data': [
         'security/ir.model.access.csv',
         'views/analytic_partition.xml',
